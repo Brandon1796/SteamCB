@@ -1,4 +1,4 @@
-## STEAMCB análisis de juegos
+##STEAMCB análisis de juegos
 
 Cada vez sale mas juegos y de diferentes categorías, y es imposible jugar cada uno de ellos, por lo que una manera de poder saber que juego nos puede gustar seria de gran ayuda para no desperdiciar el tiempo o dinero
 
@@ -15,4 +15,9 @@ Project Organization:
 
 
 Analysis
+
+###Gender Distribution
+
+![Gender Distribution](Media/gender_distribution.png)
+
 
