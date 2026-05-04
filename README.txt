@@ -16,3 +16,8 @@ Project Organization:
 
 Analysis
 
+### 🎮 Gender Distribution
+
+![Gender Distribution](Media/gender_distribution.png)
+
+
