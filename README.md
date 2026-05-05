@@ -18,6 +18,6 @@ Analysis
 
 ###Gender Distribution
 
-![Gender Distribution](Media/gender_distribution.png)
+![Gender Distribution](scores_by_engenment.png)
 
 
