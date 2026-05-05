@@ -1,4 +1,4 @@
-STEAMCB – Game Analysis & Recommendation System
+# STEAMCB – Game Analysis & Recommendation System
 
 With the continuous growth in the number of video games across different genres and categories, it becomes increasingly difficult for users to explore and evaluate all available options. As a result, selecting a game that aligns with personal preferences can be time-consuming and inefficient.
 
@@ -10,7 +10,7 @@ The project explores variables such as genres, engagement metrics, sentiment, an
 
 The system computes similarity between games using feature-based representations and returns ranked recommendations based on user-defined preferences.
 
-Project Organization:
+## Project Organization:
 
 [Markdown de las  distribución de carpetas del proyecto]
 
