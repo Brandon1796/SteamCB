@@ -11,10 +11,38 @@ The project explores variables such as genres, engagement metrics, sentiment, an
 The system computes similarity between games using feature-based representations and returns ranked recommendations based on user-defined preferences.
 
 ## Project Organization:
+````
+SteamCB/
+├── data/                          # Project data folder
+│   ├── raw/                       # Original, unprocessed data
+│   ├── processed/                # Cleaned and transformed data
+│
+├── Media/                        # Graphs and visualizations (Figures 1–5)
+│   ├── gender_distribution_per_game.png
+│   ├── scores_by_engagement.png
+│   ├── scores_distribution.png
+│   ├── sentiment_distribution.png
+│   ├── top10_genres_most_games.png
+│
+├── Notebooks/                    # Jupyter notebooks for analysis
+│   ├── steam_data_extraction_tables.ipynb
+│   ├── steam_EDA.ipynb
+│
+├── scripts/                      # Data processing and logic scripts
+│   ├── __pycache__/              # Python cache files (auto-generated)
+│   ├── fetch_steamspy.py        # Script to extract data from SteamSpy
+│
+├── Tables/                       # Extracted or processed datasets
+│   ├── subtable_genrerxappid.csv
+│   ├── table_games.csv
+│   ├── table_genrer.csv
+│   ├── table_review.csv
+│
+├── .gitignore                   # Git ignored files configuration
+├── README.md                    # Main project documentation
+└── requirements.txt             # Project dependencies
 
-[Markdown de las  distribución de carpetas del proyecto]
-
-
+````
 ## Analysis
 
 ### Gender Distribution
